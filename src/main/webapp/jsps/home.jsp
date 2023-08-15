@@ -4,8 +4,8 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<title>S2 Software training centre- Home Page</title>
+<link href="images/" rel="icon">
 </head>
 </head>
 <body>
@@ -34,11 +34,11 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
+		s2, 
+		pune, Above ICICI Bank, Beside Meghana Foods,
 		Bangalore,
-		+91-9980923226,+91-9900012028
-		devopstrainingblr@gmail.com
+		+91-9309430036
+		s2@gmail.com
 		<br>
 		<a href="jeet@gmail.com">Mail to Mithun Technologies</a>
 	</span>
@@ -47,8 +47,8 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://devops.com/">Mithun Technologies,pune</a> </small></p>
+<p align=center>S2 software - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2022 by <a href="http://devops.com/">S2 software training centre,pune</a> </small></p>
 
 </body>
 </html>
